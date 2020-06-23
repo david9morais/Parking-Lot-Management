@@ -1,0 +1,22 @@
+HU65PT;Renault;Arteon;Black;Diesel;i
+GE45KU;Mercedes;AMG;White;Diesel;v
+FE49GU;Tesla;Cybertruck;Grey;Gas;v
+99UYOP;BMW;I8;Blue;Electric;v
+VW12QS;Peugeot;RCZ;Purple;Diesel;i
+QPLA23;Toyota;ch-r;Black;Gasoline;v
+HZ85SD;Range Rover;Evoque;Black Mate;Diesel;i
+07GVJK;Mini;Clubman;White;Gasoline;v
+XKUI66;Renault;Clio;Grey;Gas;v
+01RRDP;Volvo;v40;Yellow;Bio-Diesel;i
+MW19YT;Audi;R8;Red;Gasoline;v
+23ERTY;Fiat;Punto;Blue;Gas;v
+54WCDE;Suzuki;Sandero;Black;Diesel;v
+PO17TY;Opel;Corsa;Green;Bio-Diesel;v
+KL55MM;Honda;Civic;Grey;Diesel;i
+LVXY77;Dacia;Kube;Orange;Electric;v
+CG91YU;Ford;Fiesta;Purple;Bio-Diesel;i
+OK1234;VW;Polo;Blue;Diesel;v
+FX06ZM;Lotus;Elise;Orange;Gasoline;v
+RTXI78;BMW;I3;Blue;Electric;v
+TY1098;Bentley;Bentayga;PILA;Gas;i
+YU88MQ;Skoda;SuperB IV;White;Diesel;v
